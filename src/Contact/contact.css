@@ -1,0 +1,202 @@
+h1 {
+    color: #1D3654;
+}
+
+.banner {
+    width: 100%;
+    height: 600px;
+}
+
+.banner-text {
+    position: absolute;
+    top: 0;
+    color: #ffff;
+    padding: 0px;
+    margin: 200px;
+    font-size: 25px;
+}
+
+.banner-card {
+    position: relative;
+}
+
+.banner-button {
+    background-color: #34b8ed;
+    color: #fff;
+    text-align: center;
+    padding: 10px 30px;
+    font-size: 14px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    border-radius: 41px;
+
+
+}
+
+.map {
+    width: 100%;
+    height: 750px;
+}
+
+.mail {
+    color: #34b8ed;
+    font-size: 20px;
+}
+
+.mapheading {
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 20px;
+}
+.lable{
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #000000;
+    padding-bottom: 4px;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+.input-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+input {
+    height: 40px;
+    width: 350px;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+.lengthbox{
+   width: 750px;
+   margin-right: 30px;
+  
+   font-size: 16px;
+   font-family: "Roboto";
+   font-weight: 500;
+}
+
+.form-container {
+    text-align: center;
+    justify-content: center;
+    box-shadow: 5px 2px 16px 4px #bfbfbf;
+    padding: 50px ;
+    margin-bottom: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 10px;
+}
+.form-subheading{
+    font-size: medium;
+    font-weight: 900;
+}
+
+.form-control {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    margin: 12px 0px;
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.select-bar{
+    width: 350px;
+    padding: 12px;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 500;
+    color: #5c5c5e; 
+}
+
+.icons{
+    height: 25px;
+    width: 25px;
+    padding: 8px;
+}
+.form-heading {
+    color: #1D3654;
+    font-size: medium;
+}
+
+.button {
+    display: inline-block;
+    font-weight: bold;
+    background: #212529;
+    text-align: center;
+    color: #ffff;
+    margin-top: 10px;
+    border: 1px solid transparent;
+    padding: 10px 30px;
+    font-size: 14px;
+    line-height: 1.5;
+    border-radius: 41px
+}
+
+.location {
+    text-align: start;
+    justify-content: center;
+    margin-left: 200px;
+
+}
+
+.social-media {
+    justify-content: center;
+    text-align: end;
+    margin-right: 200px
+}
+
+
+
+
+.card-descripton {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: center;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 500;
+
+}
+
+.testimonials {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.testimonial {
+    flex: 1 1 200px;
+    padding: 20px;
+    border: px solid #ccc;
+    border-radius: 5px;
+    justify-content: start;
+    text-align: center;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 500;
+   
+}
+
+
+
+
